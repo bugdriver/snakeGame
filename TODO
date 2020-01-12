@@ -1,0 +1,23 @@
+--DONE-- * Paint or place a static snake on the screen
+            * Assume the snake is composed of blocks 
+
+--DONE-- * Create a simple page that will host the game
+
+--DONE-- * Create a key listener on the grid so that the snake can move
+--DONE-- * Move the snake one cell at a time from left to right
+--DONE-- * Extract a Snake class that is responsible for snake's behaviour
+--DONE-- * Create a ghost snake that randomly roams around
+
+--DONE-- * Extract a Direction class that is responsible for the direction 
+           and the deltas 
+
+--DONE-- * Make snake and ghostSnake local. they're currently global and hackable.
+
+--DONE-- * Change color of ghost snake
+
+
+
+--DONE-- * The snake should be able to eat the food
+--DONE-- * The snake should grow upon eating the food
+3. The game should keep score fand or each time the snake eats the food the score should be updated.
+4. The game should get over when the snake either touches itself or the borders.
